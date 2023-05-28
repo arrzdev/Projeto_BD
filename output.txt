@@ -1,0 +1,26 @@
+    name    
+------------
+ Customer B
+ Customer C
+(2 rows)
+
+
+      name       
+-----------------
+ Michael Johnson
+(1 row)
+
+
+ best_selling_product 
+----------------------
+ Product C
+(1 row)
+
+
+ order_no | total_value 
+----------+-------------
+     1003 |      299.97
+     1004 |      199.98
+     1001 |       99.98
+     1002 |       59.99
+(4 rows)
